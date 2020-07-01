@@ -5,7 +5,3 @@ I'm glad you are here. I plan to talk about ...
 Myself, mostly
 
 Maybe some graphic design stuff...
-
-#H1
-##H2
-###H3
